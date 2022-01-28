@@ -1,4 +1,3 @@
-import { Fragment } from "react";
 import classes from "./MeetupDetails.module.css";
 
 const MeetupDetails = (props) => {
